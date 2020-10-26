@@ -1,2 +1,2 @@
-# Fritz-Image-Labelling
-Image Labeling with [Fritz AI](https://www.fritz.ai)
+# Fritz Image Segmentation
+Image Segmentation with [Fritz AI](https://www.fritz.ai)
